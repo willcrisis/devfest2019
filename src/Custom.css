@@ -1,0 +1,20 @@
+.Custom {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.required {
+    border: 1px solid red;
+}
+
+.required-label {
+    color: red;
+}
